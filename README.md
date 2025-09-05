@@ -9,7 +9,3 @@ The task is to classify a flower into one of **3 species**: *setosa, versicolor,
 - **Dataset**: Iris dataset (from scikit-learn)
 - **Accuracy**: ~0.95 on test set
 
-## 📌 How to Run
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
